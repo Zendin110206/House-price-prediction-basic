@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+!.gitkeep
+data/processed/*
+!.gitkeep
+
+# Environment
+.env
+venv/
