@@ -58,10 +58,10 @@ house-price-prediction-advanced/
 
 ## 📚 Learning Highlights
 
-- Built a reusable ML pipeline from scratch  
-- Practiced production-grade data preprocessing  
-- Applied multiple hyperparameter tuning strategies  
-- Developed insights on generalization and model performance  
+- Understood the foundation of supervised learning with regression
+- Practiced EDA with visualization libraries
+- Trained a linear regression model using scikit-learn
+- Evaluated model performance with appropriate metrics  
 
 ---
 
