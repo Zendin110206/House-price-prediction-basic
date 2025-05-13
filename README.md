@@ -12,12 +12,11 @@ To understand the complete workflow of a regression task using Python, from load
 
 ## 🧠 Key Concepts Covered
 
-- What is Machine Learning (Supervised vs Unsupervised Learning)
 - Introduction to features, labels, and datasets
 - Workflow of a basic regression model
 - Exploratory Data Analysis (EDA)
 - Linear Regression using scikit-learn
-- Performance metrics: MAE, RMSE, R²
+- Performance metrics
 
 ---
 
@@ -49,8 +48,8 @@ house-price-prediction-advanced/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/house-price-prediction-advanced.git
-   cd house-price-prediction-advanced
+   git clone https://github.com/username/house-price-prediction-basic.git
+   cd house-price-prediction-basic
    ```
 2. Create environment & install dependencies: 
    ```bash
