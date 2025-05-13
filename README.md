@@ -34,7 +34,7 @@ To understand the complete workflow of a regression task using Python, from load
 ## 🗂️ Folder Structure
 
 ```bash
-house-price-prediction-advanced/
+house-price-prediction-basic/
 ├── data/                   # Raw & processed data files
 ├── models/                 # Saved trained models (Pickle, Joblib)
 ├── notebooks/              # Jupyter notebooks for EDA & training
