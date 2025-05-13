@@ -34,3 +34,50 @@ To understand the complete workflow of a regression task using Python, from load
 
 ## 🗂️ Folder Structure
 
+```bash
+house-price-prediction-advanced/
+├── data/                   # Raw & processed data files
+├── models/                 # Saved trained models (Pickle, Joblib)
+├── notebooks/              # Jupyter notebooks for EDA & training
+├── .gitignore              # Git ignore rules
+├── README.md               # Project documentation
+└── requirements.txt        # Environment dependencies 
+```
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/house-price-prediction-advanced.git
+   cd house-price-prediction-advanced
+   ```
+2. Create environment & install dependencies: 
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## 📚 Learning Highlights
+
+- Built a reusable ML pipeline from scratch  
+- Practiced production-grade data preprocessing  
+- Applied multiple hyperparameter tuning strategies  
+- Developed insights on generalization and model performance  
+
+---
+
+## 📇 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+## 🧑‍💻 About the Author
+
+Developed by **Muhammad Zaenal Abidin Abdurrahman** as part of the *24-Week Machine Learning & Deep Learning Roadmap*.  
+Aspiring **Machine Learning Engineer** with a strong foundation in data science principles and clean coding practices.
+
+
+📍 Aspiring ML Engineer | Telkom University
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/zendin1102)
